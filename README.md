@@ -2,22 +2,20 @@
 <img src="https://github.com/sherry2610/sherry2610/blob/main/banner2.png"  width="100%" />
 
 <h1 align="center">Hi 👋, I'm Muhammad Shaheryar</h1>
-<h3 align="center">A passionate Full Stack Web3 Developer developer from Pakistan</h3>
+<h3 align="center">A passionate Software Developer developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/sherry2610/sherry2610/blob/main/coding.gif" />
 
 
-- 🔭 I’m currently working on **NFT marketplace DApp**
+- 🔭 I’m currently working in a fintech company as a **Web Portal Developer**
 
-- 🌱 I’m currently learning **BE related stack**
+- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **exciting open source projects!**
-
-- 🤝 I’m looking for help with **increasing my experience on Bakc End development**
+- 👯 Always open to collaborate on **exciting open source projects!**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://app.flexiple.com/resume/1682707799970x517500428821911800)
 
-- 📝 I frequently write articles on programming concepts related to MERN stack libraries, you an find it on my inkedin profile here at https://www.linkedin.com/in/m-sherry/
+- 📝 I frequently write articles on programming concepts and other technical topics, you can find it on my linkedin profile here at https://www.linkedin.com/in/m-sherry/
 
 - 💬 Ask me about **Javascript and React**
 
