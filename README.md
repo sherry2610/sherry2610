@@ -7,17 +7,15 @@
 <img align="right" alt="coding" width="400" src="https://github.com/sherry2610/sherry2610/blob/main/coding.gif" />
 
 
-- 🔭 I’m currently working in a fintech company as a **Web Portal Developer**
-
-- 🌱 I’m currently learning **Python**
+- 🔭 Currently pursuing my Masters in the field of Computer Science from **TU Clausthal, GERMANY**
 
 - 👯 Always open to collaborate on **exciting open source projects!**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://app.flexiple.com/resume/1682707799970x517500428821911800)
 
-- 📝 I frequently write articles on programming concepts and other technical topics, you can find it on my linkedin profile here at https://www.linkedin.com/in/m-sherry/
+- 📝 I sometimes write articles on programming concepts and other technical topics, you can find it on my linkedin profile here at https://www.linkedin.com/in/m-sherry/
 
-- 💬 Ask me about **Javascript and React**
+- 💬 Ask me anything about **Javascript and React**. Either I'll spill the beans or track it down and spill 'em!
 
 - 📫 How to reach me **shaharyarkhalid2610@gmail.com**
 
