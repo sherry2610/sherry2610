@@ -1,6 +1,4 @@
 
-<img src="https://github.com/sherry2610/sherry2610/blob/main/banner2.png"  width="100%" />
-
 <h1 align="center">Hi 👋, I'm Muhammad Shaheryar</h1>
 <h3 align="center">A passionate Software Developer developer from Pakistan</h3>
 
@@ -11,15 +9,9 @@
 
 - 👯 Always open to collaborate on **exciting open source projects!**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://app.flexiple.com/resume/1682707799970x517500428821911800)
-
-- 📝 I sometimes write articles on programming concepts and other technical topics, you can find it on my linkedin profile here at https://www.linkedin.com/in/m-sherry/
-
-- 💬 Ask me anything about **Javascript and React**. Either I'll spill the beans or track it down and spill 'em!
+- 💬 Ask me anything about **Data Structures | Javascript/Typescript | Frontend | React/React Native | Github**. Either I'll spill the beans or track it down and spill 'em!
 
 - 📫 How to reach me **shaharyarkhalid2610@gmail.com**
-
-- 📄 Know about my experiences [portfolio](https://app.flexiple.com/resume/1682707799970x517500428821911800)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
