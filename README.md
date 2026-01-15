@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently building scalable SaaS applications using Next.js and NestJS, with a focus on clean architecture and performance.<br>🌍 Based in Germany.<br>👯 Open to collaborating on Full-Stack, Web3, and AI-powered products.<br>🌱 Continuously learning cloud-native development, GenAI integrations, and modern DevOps workflows.<br>🤝 Always happy to collaborate on open-source, SaaS, or experimental ideas.<br>⚡ Fun fact: I’ve led an MVP launch and I’ve worked on everything from crypto wallets to ChatGPT-powered apps and I still enjoy debugging 😄.
+🔭 Currently building scalable SaaS applications using Next.js and NestJS, with a focus on clean architecture and performance.<br>🌍 Based in Germany.<br>👯 Open to collaborating on Full-Stack, Web3, and AI-powered products.<br>🌱 Continuously learning cloud-native development, GenAI integrations, and modern DevOps workflows.<br>🤝 Always happy to collaborate on open-source, SaaS, or experimental ideas.
 
 
 ## 🌐 Socials:
